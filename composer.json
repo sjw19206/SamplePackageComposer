@@ -1,6 +1,7 @@
 {
     "name": "sjw19206/sample-package-composer",
     "description": "trail package",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
