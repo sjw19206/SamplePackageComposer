@@ -1,0 +1,19 @@
+{
+    "name": "sjw19206/sample-package-composer",
+    "description": "trail package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sjw19206\\SamplePackageComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sharon Wilson",
+            "email": "105675912+sjw19206@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
