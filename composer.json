@@ -1,7 +1,6 @@
 {
     "name": "sjw19206/sample-package-composer",
-    "description": "trail package",
-    "version": "1.0.0",
+    "description": "trail package",    
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -15,6 +14,6 @@
             "email": "105675912+sjw19206@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
